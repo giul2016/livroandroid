@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_item_remylacroix"
+            android:title="@string/remylacroix"
+            android:checkable="true"
+            android:icon="@drawable/ic_whatshot_white_24dp"/>
+
+        <item
+            android:id="@+id/menu_item_trillium"
+            android:title="@string/trillium"
+            android:checkable="true"
+            android:icon="@drawable/ic_whatshot_white_24dp"/>
+
+        <item
+            android:id="@+id/menu_item_christymack"
+            android:title="@string/christymack"
+            android:checkable="true"
+            android:icon="@drawable/ic_whatshot_white_24dp"/>
+
+        <item
+            android:id="@+id/menu_item_proxypaige"
+            android:title="@string/proxypaige"
+            android:checkable="true"
+            android:icon="@drawable/ic_whatshot_white_24dp"/>
+    </group>
+
+</menu>

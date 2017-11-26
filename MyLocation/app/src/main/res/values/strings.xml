@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyLocation</string>
+    <string name="action_my_location">Minha Localização</string>
+    <string name="API_KEY">AIzaSyB9LM5lqG29fUkvz11uoIa4PaS_KqgMMVg</string>
+</resources>
